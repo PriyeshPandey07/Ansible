@@ -9,7 +9,6 @@
        - unzip
        - jq
        - apache2
-       - docker
   tasks:
     - name: Install package
       apt:
